@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Html,CSS, Java Script, Python, Java, C++, MYSQL, MSSQL**
 
-- 📫 How to reach me **dawitzewdu2123@gmail.com**
+
 
 - ⚡ Fun fact **I am funny, serious and enthusiastic coder.**
 
