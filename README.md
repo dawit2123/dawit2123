@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ALX Software Engineering program**
 
-- 💬 Ask me about **Html,CSS, Java Script, Python, Java, C++, MYSQL, MSSQL**
+- 💬 Ask me about **Html,CSS, Java Script, Node JS, Mongoose, Express, Java, C++, MYSQL, MSSQL**
 
 
 
