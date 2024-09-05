@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Html,CSS, Java Script, SASS, Tailwind, React, Redux, ,Node JS, Mongoose, Express, MongoDB, MYSQL, Java,PHP, MongoDB, Mongoose,**
 
-
 - ⚡ Fun fact **I am funny, serious and enthusiastic coder.**
 
 <h3 align="left">Connect with me:</h3>
