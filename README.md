@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawit2123&label=Profile%20views&color=0e75b6&style=flat" alt="dawit2123" /> </p>
  
 - 🔭 I’m currently working on **Website Development**
-
+ 
 - 💬 Ask me about **Html,CSS, Java Script, SASS, Tailwind, React, Redux, ,Node JS, Mongoose, Express, MongoDB, MYSQL, Java,PHP, MongoDB, Mongoose,**
 
 - ⚡ Fun fact **I am funny, serious and enthusiastic coder.**
