@@ -5,7 +5,7 @@
  
 - 🔭 I’m currently working on **AI, Machine Learning and Website Development**
  
-- 💬 Ask me about **Artificial Intelligence, Machine Learning, Python, Html,CSS, Java Script, SASS, Tailwind, React, Redux, ,Node JS, Mongoose, Express, MongoDB, MYSQL, Java,PHP, MongoDB, Mongoose,**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Python, Html,CSS, Java Script, SASS, Tailwind, React, Redux, ,Node JS, MongoDB, Mongoose, Express, MYSQL, Java,PHP, Wordpress**
 
 - ⚡ Fun fact **I am funny, serious and enthusiastic coder.**
 
