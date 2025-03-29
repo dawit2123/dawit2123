@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawit2123&label=Profile%20views&color=0e75b6&style=flat" alt="dawit2123" /> </p>
  
 - 🔭 I’m currently working on **AI, Machine Learning and Website Development** 
-
+ 
 - 💬 Ask me about **Artificial Intelligence, Machine Learning, Python, Html,CSS, Java Script, SASS, Tailwind, React, Redux, ,Node JS, MongoDB, Mongoose, Express, MYSQL, Java,PHP, Wordpress**
 
 - ⚡ Fun fact **I am funny, serious and enthusiastic coder.**
