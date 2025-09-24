@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawit2123&label=Profile%20views&color=0e75b6&style=flat" alt="dawit2123" /> </p>
  
-- 🔭 I’m currently working on **Software Development, AI, Machine Learning, Mobile Application Development and Website Development**   
+- 🔭 I’m currently working on **Software Development, AI, Machine Learning, Mobile Application Development and Website Development**  
 
 - ⚡ Fun fact **I am funny, serious and enthusiastic coder.**
 
